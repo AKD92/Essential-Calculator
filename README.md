@@ -1,6 +1,7 @@
-# EssentialCalculator
 
-<img align="right" hspace="20" src="https://github.com/AKD92/Essential-Calculator/raw/master/scrn_1.png">
+<h1>EssentialCalculator</h1>
+
+<img align="right" hspace="20" src="scrn_1.png">
 
 <p>
 This is a very simple and handy calculator program.
@@ -8,7 +9,7 @@ This is a very simple and handy calculator program.
 Its type is a Graphical Calculator, not a Stack-based Formula calculator.</br></p>
 
 
-## Operations Implemented
+<h3>Operations Implemented</h3>
 
 <ul>
   <li><b>Simple Operations</b></li>
@@ -28,4 +29,5 @@ Its type is a Graphical Calculator, not a Stack-based Formula calculator.</br></
     </ul>
 </ul>
 
-
+<h3>License</h3>
+<a rel="license" href="http://www.gnu.org/licenses/lgpl-3.0-standalone.html"><img alt="LGPLv3 License" style="border-width:0" src="http://www.gnu.org/graphics/lgplv3-147x51.png" /></a><br />This software is licensed under <a rel="license" href="http://www.gnu.org/licenses/lgpl-3.0-standalone.html">GNU Lesser General Public License, Version 3</a>.
