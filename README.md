@@ -1,7 +1,11 @@
 
 <img src="res/calculator_2.png" align="left">
 <h1>Essential Calculator</h1>
-<h3><i>Simple desktop calculator program. Version 2 is coming...</i></h3>
+<h3><i>
+Simple desktop calculator program
+<br>
+Version 2 is coming with lot more useful calculator operations...
+</i></h3>
 
 <img align="right" hspace="20" src="scrn_1.png">
 
