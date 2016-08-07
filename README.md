@@ -4,11 +4,11 @@
 Essential Calculator
 </h1>
 
-<h3><i>
+<p><b><i>
 Simple desktop calculator program
 <br>
 Version 2 is coming with lot more useful calculator operations...
-</i></h3>
+</i></b></p>
 
 <img align="right" hspace="20" src="scrn_1.png">
 
