@@ -10,9 +10,9 @@ Simple desktop calculator program
 Version 2 is coming with lot more useful calculator operations...
 </i></b></p>
 
-<img align="right" hspace="20" src="scrn_1.png">
-
 <p>
+<br>
+<img align="right" hspace="20" src="scrn_1.png">
 This is a very simple and handy calculator program.
 <br>It is written in Java and uses custom theme to make it looking attaractive.
 Its type is a Graphical Calculator, not a Stack-based Formula calculator.</br></p>
