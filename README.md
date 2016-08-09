@@ -38,5 +38,16 @@ Its type is a Graphical Calculator, not a Stack-based Formula calculator.</br></
     </ul>
 </ul>
 
+<b>Download</b>
+<ul>
+<li><b>
+<a href="https://github.com/AKD92/Essential-Calculator/raw/master/release/essn_calculator_v1.zip">
+Executable in .ZIP archive</a>
+</b></li>
+<li><b>
+<a href="src/org/ash/calc">Browse for Source Codes</a> at GitHub
+</b></li>
+</ul>
+
 <h3>License</h3>
 <a rel="license" href="http://www.gnu.org/licenses/lgpl-3.0-standalone.html"><img alt="LGPLv3 License" style="border-width:0" src="http://www.gnu.org/graphics/lgplv3-147x51.png" /></a><br />This software is licensed under <a rel="license" href="http://www.gnu.org/licenses/lgpl-3.0-standalone.html">GNU Lesser General Public License, Version 3</a>.
