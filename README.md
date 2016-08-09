@@ -42,10 +42,10 @@ Its type is a Graphical Calculator, not a Stack-based Formula calculator.</br></
 <ul>
 <li><b>
 <a href="https://github.com/AKD92/Essential-Calculator/raw/master/release/essn_calculator_v1.zip">
-Executable in .ZIP archive</a>
+Executable in .ZIP Archive</a>
 </b></li>
 <li><b>
-<a href="src/org/ash/calc">Browse for Source Codes</a> at GitHub
+<a href="src/org/ash/calc">Browse for Source Codes</a> on GitHub
 </b></li>
 </ul>
 
